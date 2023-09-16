@@ -4,11 +4,12 @@ Oracle APEX - How to Access Oracle APEX Applications With Google Credentials [^2
 (A few details differents, that it is why all the pics)  
 https://developers.google.com/identity/protocols/oauth2/  
 
-This tutorial have two mains part:    
+**This tutorial have two mains part:**   
 - Google console, to create a Auth Key  
 - Config Apex Authentication Scheme  
   
-  ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44)  
+  ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44)
+  [Link to the project Apex Google Authentication]([https://www.google.com](https://apex.oracle.com/pls/apex/r/cristianflc3/authentication-demo/)
 
   
 ## 1Part Google console, to create a Auth Key  
