@@ -3,6 +3,11 @@ Référence d'utilisation de Markdown [^1].
 Oracle APEX - How to Access Oracle APEX Applications With Google Credentials [^2].
 (A few details differents, that it is why all the pics)
 
+This tutorial have two mains part:    
+- Google console, to create a Auth Key  
+- Config Apex Authentication Scheme  
+
+  ## Google console, to create a Auth Key  
 
 ### Create a project in console.developers.google.com (Apex Oracle Auth Social)  
 https://console.cloud.google.com/apis/dashboard
@@ -40,6 +45,13 @@ Aplication Home page:
 ### Now we can acces to create a OAuth client ID  
 URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback    
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/85368fe2-858e-4420-9614-9dd501fc0ebd)  
+
+### Copy and Save, your Client Id and Client secret  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/7a403fed-20a7-461f-aacd-65736239616c)  
+
+
+## Config Apex Authentication Scheme  
+  
 
 
   
