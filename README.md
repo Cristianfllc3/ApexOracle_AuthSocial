@@ -52,6 +52,13 @@ URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback
 
 ## 2Part Config Apex Authentication Scheme  
   
+### Go to Apex Workspace Utilities
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/86d2675f-2ced-4657-a3c5-1ac33a2b8baa)  
+
+#### Then to Web Credentials  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/98a35f4c-12ff-4896-9b77-957187b9dbf1)  
+
+
 
 
   
