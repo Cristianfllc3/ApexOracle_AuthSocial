@@ -7,7 +7,7 @@ This tutorial have two mains part:
 - Google console, to create a Auth Key  
 - Config Apex Authentication Scheme  
 
-  ## Google console, to create a Auth Key  
+## Google console, to create a Auth Key  
 
 ### Create a project in console.developers.google.com (Apex Oracle Auth Social)  
 https://console.cloud.google.com/apis/dashboard
