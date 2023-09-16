@@ -74,6 +74,12 @@ URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback
 - Select the firts option, Based on a pre-configured scheme from the gallery  
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/d35a4281-0705-4db1-a716-2b991e480071)   
 
+#### Add the parameters    
+Name,   
+Scheme Type,   
+Credential Storez, Select the one that we created in the previews steps  
+Authentication Provider, select Google  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/df2aa4cc-5ba0-4f41-a310-9d215a64fa2d)  
 
   
 [^1]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
