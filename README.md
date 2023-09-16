@@ -24,3 +24,11 @@ Aplication Home page:
 #### AUTHORIZED DOMAINS:  
 - oracle.com  
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/9ac718dc-7351-49b2-9522-7f60caaf05e3)
+
+
+###  Select the scope  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/68ccbd3a-bd18-4114-8eda-261221246ea5)  
+
+
+### Add test users  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/0582894f-f805-407a-a7fc-24f070f9122b)  
