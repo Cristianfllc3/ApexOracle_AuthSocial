@@ -58,7 +58,12 @@ URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback
 #### Then to Web Credentials  
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/98a35f4c-12ff-4896-9b77-957187b9dbf1)  
 
+#### Create  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/cd0e48f7-0713-4b94-969a-5f13fbbeaf38)  
 
+### Add the parameters from the credencial  we created in google console (Client ID and CLient Secret)  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/b3a30e12-f1b9-4295-a32d-8de8f57f18de)   
+  
 
 
   
