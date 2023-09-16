@@ -82,7 +82,7 @@ Authentication Provider, select Google
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/df2aa4cc-5ba0-4f41-a310-9d215a64fa2d)  
 
 
-#### One last modification  
+#### One last modification   
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/69334307-8a21-44ee-a37b-620086d553eb)   
   
 #### Ajust one last parameter  
