@@ -81,6 +81,16 @@ Credential Storez, Select the one that we created in the previews steps
 Authentication Provider, select Google  
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/df2aa4cc-5ba0-4f41-a310-9d215a64fa2d)  
 
+
+#### One last modification  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/69334307-8a21-44ee-a37b-620086d553eb)   
+  
+#### Ajust one last parameter  
+URL: https:// www.google.com/accounts/Logout   
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/060f66f3-89a0-4360-9f06-45b5713d0b83)  
+
+
+
   
 [^1]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
 [^2]:[https://www.youtube.com/watch?v=QJw4HkagVWc](https://www.youtube.com/watch?v=cK_aWXDVf_U&t=74s)https://www.youtube.com/watch?v=cK_aWXDVf_U&t=74s
