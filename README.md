@@ -1,6 +1,7 @@
 # ApexOracle_AuthSocial
 Référence d'utilisation de Markdown [^1].   
 Oracle APEX - How to Access Oracle APEX Applications With Google Credentials [^2].
+(A few details differents, that it is why all the pics)
 
 
 ### Create a project in console.developers.google.com (Apex Oracle Auth Social)  
