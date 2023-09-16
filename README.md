@@ -32,3 +32,11 @@ Aplication Home page:
 
 ### Add test users  
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/0582894f-f805-407a-a7fc-24f070f9122b)  
+
+### Now we can acces to create a OAuth client ID  
+URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback    
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/85368fe2-858e-4420-9614-9dd501fc0ebd)  
+
+
+  
+
