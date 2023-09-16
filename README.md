@@ -2,6 +2,7 @@
 Référence d'utilisation de Markdown [^1].   
 Oracle APEX - How to Access Oracle APEX Applications With Google Credentials [^2].
 (A few details differents, that it is why all the pics)
+https://developers.google.com/identity/protocols/oauth2/
 
 This tutorial have two mains part:    
 - Google console, to create a Auth Key  
@@ -89,6 +90,7 @@ Authentication Provider, select Google
 URL: https:// www.google.com/accounts/Logout   
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/e2884a40-00aa-46c2-844b-7a58a51738f7)  
 
+## Best part, the finist project
 
 
 
