@@ -1,4 +1,7 @@
 # ApexOracle_AuthSocial
+Référence d'utilisation de Markdown [^1].   
+Oracle APEX - How to Access Oracle APEX Applications With Google Credentials [^2].
+
 
 ### Create a project in console.developers.google.com (Apex Oracle Auth Social)  
 https://console.cloud.google.com/apis/dashboard
@@ -39,4 +42,5 @@ URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback
 
 
   
-
+[^1]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
+[^2]:[https://www.youtube.com/watch?v=QJw4HkagVWc](https://www.youtube.com/watch?v=cK_aWXDVf_U&t=74s)https://www.youtube.com/watch?v=cK_aWXDVf_U&t=74s
