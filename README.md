@@ -7,7 +7,10 @@ https://developers.google.com/identity/protocols/oauth2/
 This tutorial have two mains part:    
 - Google console, to create a Auth Key  
 - Config Apex Authentication Scheme  
+  
+  ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44)  
 
+  
 ## 1Part Google console, to create a Auth Key  
 
 ### Create a project in console.developers.google.com (Apex Oracle Auth Social)  
@@ -90,9 +93,13 @@ Authentication Provider, select Google
 URL: https:// www.google.com/accounts/Logout   
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/e2884a40-00aa-46c2-844b-7a58a51738f7)  
 
-## Best part, the finist project
+## Best part, the finist project  
+https://apex.oracle.com/pls/apex/r/cristianflc3/authentication-demo/  
+
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/83771c65-b3b5-4310-a9ec-350aaff8627b)  
 
 
+Mercy, Thanks, Gracias, Gratie
 
   
 [^1]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
