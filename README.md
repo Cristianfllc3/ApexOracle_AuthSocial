@@ -67,6 +67,12 @@ URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback
 #### Confirm the web credentials created
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/f071e620-f0c7-42ef-b48f-1b924855f6ed)  
 
+### Go to your App, Share Components, Authentication Schemes  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/e79bb595-d3e8-4476-9efc-b9d25944837d)  
+
+#### Create a Authentication Scheme
+- Select the firts option, Based on a pre-configured scheme from the gallery  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/d35a4281-0705-4db1-a716-2b991e480071)   
 
 
   
