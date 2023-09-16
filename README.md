@@ -87,7 +87,8 @@ Authentication Provider, select Google
   
 #### Ajust one last parameter  
 URL: https:// www.google.com/accounts/Logout   
-![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/060f66f3-89a0-4360-9f06-45b5713d0b83)  
+![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/e2884a40-00aa-46c2-844b-7a58a51738f7)  
+
 
 
 
