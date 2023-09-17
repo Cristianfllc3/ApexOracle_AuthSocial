@@ -8,9 +8,9 @@ https://developers.google.com/identity/protocols/oauth2/
 - Google console, to create a Auth Key  
 - Config Apex Authentication Scheme  
 
-  [Link to the project Apex Google Authentication](https://apex.oracle.com/pls/apex/r/cristianflc3/authentication-demo/)
-  <img src="https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44" width="500">
-
+  [Link to the project Apex Google Authentication](https://apex.oracle.com/pls/apex/r/cristianflc3/authentication-demo/)  
+  <img src="https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44" width="500">  
+  
   
 # 1 - Google console, to create a Auth Key  
 
