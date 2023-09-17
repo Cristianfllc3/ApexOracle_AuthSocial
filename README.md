@@ -78,7 +78,7 @@ URIs: https://apex.oracle.com/pls/apex/apex_authentication.callback
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/e79bb595-d3e8-4476-9efc-b9d25944837d)  
 
 #### Create a Authentication Scheme
-- Select the firts option, Based on a pre-configured scheme from the gallery  
+Select the firts option, Based on a pre-configured scheme from the gallery  
 ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/d35a4281-0705-4db1-a716-2b991e480071)   
 
 #### Add the parameters    
