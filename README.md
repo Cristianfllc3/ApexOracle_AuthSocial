@@ -9,8 +9,6 @@ https://developers.google.com/identity/protocols/oauth2/
 - Config Apex Authentication Scheme  
 
   [Link to the project Apex Google Authentication](https://apex.oracle.com/pls/apex/r/cristianflc3/authentication-demo/)
-  ![image](https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44)
-
   <img src="https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44" width="500">
 
   
