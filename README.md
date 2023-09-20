@@ -9,6 +9,7 @@ https://developers.google.com/identity/protocols/oauth2/
 - Config Apex Authentication Scheme  
 
   [Link to the project Apex Google Authentication](https://gb9c815cd89992b-isrnprojetcsocioculturel.adb.ca-montreal-1.oraclecloudapps.com/ords/r/informaticien_ca/project-socioculturel-montreal/home)
+    
   <img src="https://github.com/Cristianfllc3/ApexOracle_AuthSocial/assets/72107370/2a86f9ea-a2c9-46ac-adc4-1801eba79d44" width="500">  
   
 ***  
